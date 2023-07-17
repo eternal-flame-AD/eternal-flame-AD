@@ -1,5 +1,9 @@
 # Yumechi's GitHub Profile
 
+![](https://github-readme-stats.vercel.app/api?username=eternal-flame-AD&show_icons=true&theme=radical&disable_animations=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternal-flame-AD&layout=pie&theme=radical&disable_animations=true&hide=html,css)
+
 ## Call me ..?
 
 - Yumechi ✅
