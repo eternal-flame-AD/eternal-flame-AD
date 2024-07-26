@@ -20,6 +20,7 @@ Pronouns: She/Her or They/Them
 - Golang: Web Servers
 - Typescript: Web Frontends
 - Rust: CLI and Number crunching
+- Haskell: Math, Parsers and Algorithms
 - R: statistics and publication
 
 ## I also know about
@@ -43,7 +44,8 @@ Pronouns: She/Her or They/Them
 
 ### Project Highlights
 
-- (Past) [Gotify](https://github.com/gotify/server): Personal Push Notification Server
+- (Inactive) [Gotify](https://github.com/gotify/server): Personal Push Notification Server
+- (Archived) [projects-utexas](https://github.com/eternal-flame-AD/projects-utexas) Monorepo for projects that I enjoyed doing during my undergrad studies at UT Austin
+- [projects-utdallas](https://github.com/eternal-flame-AD/projects-utdallas) Monorepo of my course projects studying M.S. in Computational Biology at UTDallas.
 - [CardioMeter](https://github.com/eternal-flame-AD/CardioMeter): Heart Rate Tracker for Android
-- [unitdc](https://github.com/eternal-flame-AD/unitdc) DC-like Wet-Lab Quantity Calculator
-- [projects-utexas](https://github.com/eternal-flame-AD/projects-utexas) Monorepo for projects that I enjoyed doing during my undergrad studies at UT Austin
+- [unitdc-hs](https://github.com/eternal-flame-AD/unitdc-rs) DC-like Wet-Lab Quantity Calculator [Legacy Go Version](https://github.com/eternal-flame-AD/unitdc)
