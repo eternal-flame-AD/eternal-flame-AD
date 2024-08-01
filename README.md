@@ -25,6 +25,7 @@ Pronouns: She/Her or They/Them
 
 ## I also know about
 
+- Kotlin
 - C/C++
 - Python
 - C#
@@ -41,10 +42,11 @@ Pronouns: She/Her or They/Them
 
 - Daily Life Automation
 - Web Backends
+- Cryptography
 
 ### Project Highlights
 
-- (Inactive) [Gotify](https://github.com/gotify/server): Personal Push Notification Server
+- [Gotify](https://github.com/gotify/server): Personal Push Notification Server
 - (Archived) [projects-utexas](https://github.com/eternal-flame-AD/projects-utexas) Monorepo for projects that I enjoyed doing during my undergrad studies at UT Austin
 - [projects-utdallas](https://github.com/eternal-flame-AD/projects-utdallas) Monorepo of my course projects studying M.S. in Computational Biology at UTDallas.
 - [CardioMeter](https://github.com/eternal-flame-AD/CardioMeter): Heart Rate Tracker for Android
