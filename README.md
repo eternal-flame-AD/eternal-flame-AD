@@ -17,9 +17,8 @@ Pronouns: She/Her or They/Them
 
 ## Technologies I Love to use
 
-- Golang: Web Servers
 - Typescript: Web Frontends
-- Rust: CLI and Number crunching
+- Rust: CLI, Server and Number crunching
 - Haskell: Math, Parsers and Algorithms
 - R: statistics and publication
 
