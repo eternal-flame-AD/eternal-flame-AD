@@ -49,4 +49,4 @@ Pronouns: She/Her or They/Them
 - (Archived) [projects-utexas](https://github.com/eternal-flame-AD/projects-utexas) Monorepo for projects that I enjoyed doing during my undergrad studies at UT Austin
 - [projects-utdallas](https://github.com/eternal-flame-AD/projects-utdallas) Monorepo of my course projects studying M.S. in Computational Biology at UTDallas.
 - [CardioMeter](https://github.com/eternal-flame-AD/CardioMeter): Heart Rate Tracker for Android
-- [unitdc-hs](https://github.com/eternal-flame-AD/unitdc-rs) DC-like Wet-Lab Quantity Calculator [Legacy Go Version](https://github.com/eternal-flame-AD/unitdc)
+- [unitdc-rs](https://github.com/eternal-flame-AD/unitdc-rs) DC-like Wet-Lab Quantity Calculator [Legacy Go Version](https://github.com/eternal-flame-AD/unitdc)
